@@ -2,165 +2,166 @@
 
 /* default to border-box */
 html {
-    box-sizing: border-box;
-    font-size: 16px;
-  }
-  
-  *, *:before, *:after {
-    box-sizing: inherit;
-  }
-  
-  /* adjust typography defaults */
-  body {
-    font-family: helvetica, arial, sans-serif; 
-    background-color: #004E7C;
-    color: white; 
-    margin: 1rem;
-    font-family: sans-serif;
-    line-height: 1.5;
-  }
-  button{
-    padding: 10px;
-    border-radius: 10px;
-  }
-  
-  }
-  h1{
-    font-family: helvetica, arial, sans-serif; 
-  }
-  
-  .hidden{
-      display: none;
-    }
-   
-  #gameButtonArea button{
-    width: 200px;
-    height:200px;
-    margin:2
-  }
-  
-  #button1 {
-    background: lightgreen;
-  
-  #button1:active, #button1.lit{
-    background: green; 
-  }
-  
-  #button2 {
-    background: lightblue;
-  }
-  #button2:active, #button2.lit {
-    background: blue;
-  
-  }
-  
-  #button3 {
-    background: pink; 
-  }
-  #button3:active, #button3.lit {
-    background:red;
-  }
-  #button4 {
-    background: lightyellow;
-  }
-  #button4:active, #button4.lit {
-    background: yellow; 
-  }
-  #button5 {
-    background: black;
-  }
-  #button5:active, #button5.lit {
-    background: white;
-  }
-  #button6 {
-    background: #FFD580;
-  }
-  #button6:active, #button6.lit {
-    background: orange;
-  }
-  
-  /* images and videos max out at full width */
-  img,
-  video {
-    height: auto;
-    max-width: 100%;
-  }
-  
-  <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-  .dropbtn {
-    background-color: #04AA6D;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-  }
-  
-  .dropdown {
-    position: relative;
-    display: inline-block;
-  }
-  
-  .dropdown-content {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  font-family: helvetica, arial, sans-serif; 
+  background-color: #004E7C;
+  color: white; 
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+button{
+  padding: 10px;
+  border-radius: 10px;
+}
+
+}
+h1{
+  font-family: helvetica, arial, sans-serif; 
+}
+
+.hidden{
     display: none;
-    position: absolute;
-    background-color: #f1f1f1;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
   }
-  
-  .dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-  }
-  
-  .dropdown-content a:hover {background-color: #ddd;}
-  
-  .dropdown:hover .dropdown-content {display: block;}
-  
-  .dropdown:hover .dropbtn {background-color: #3e8e41;}
-  </style>
-  
-  <style>
-  .dropbtn {
-    background-color: #04AA6D;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-  }
-  
-  .dropdown {
-    position: relative;
-    display: inline-block;
-  }
-  
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f1f1f1;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-  }
-  
-  .dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-  }
-  
-  .dropdown-content a:hover {background-color: #ddd;}
-  
-  .dropdown:hover .dropdown-content {display: block;}
-  
-  .dropdown:hover .dropbtn {background-color: #3e8e41;}
-  </style>
-  
-  </head>
-  <body>
+ 
+#gameButtonArea button{
+  width: 200px;
+  height:200px;
+  margin:2
+}
+
+#button1 {
+  background: lightgreen;
+}
+
+#button1:active, #button1.lit{
+  background: green; 
+}
+
+#button2 {
+  background: lightblue;
+}
+#button2:active, #button2.lit {
+  background: blue;
+
+}
+
+#button3 {
+  background: pink; 
+}
+#button3:active, #button3.lit {
+  background:red;
+}
+#button4 {
+  background: lightyellow;
+}
+#button4:active, #button4.lit {
+  background: yellow; 
+}
+#button5 {
+  background: black;
+}
+#button5:active, #button5.lit {
+  background: white;
+}
+#button6 {
+  background: #FFD580;
+}
+#button6:active, #button6.lit {
+  background: orange;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+
+<style>
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+
+</head>
+<body>
