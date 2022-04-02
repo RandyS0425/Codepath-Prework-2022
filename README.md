@@ -55,11 +55,13 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 <summary>Difficulty Drop-down Menu</summary>
  <img src="https://recordit.co/kPZhS3AwGu"width=250>
    <br>
+   
 </details>
 <details open>
 <summary>Speed Drop-down Menu</summary>
  <img src="http://g.recordit.co/1Q6oEZvGUL.gif"width=250>
    <br>
+   
 </details>
 <summary>High Score/Current Score Keeper</summary>
  <img src="http://g.recordit.co/921vNbI4sO.gif"width=250>
