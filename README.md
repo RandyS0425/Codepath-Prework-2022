@@ -40,18 +40,21 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 <details open>
-<summary>Functionality Walkthrough?</summary>
+<summary>High Score Keeper</summary>
    <img src="http://g.recordit.co/8lE5Uq6oOF.gif"width=250>
 <br>
 </details>
 
 <details open>
-<summary>Functionality Walkthrough?</summary>
- http://g.recordit.co/d9fGTVybsy.gif<br>
+<summary> Volume Slider</summary>
+<img src="http://g.recordit.co/2dk1uc2DQb.gif"width=250>
+   <br>
 </details>
+
 <details open>
-<summary>Functionality Walkthrough?</summary>
- http://g.recordit.co/d9fGTVybsy.gif<br>
+<summary>Difficulty Drop-down Menu</summary>
+ <img src="https://ezgif.com/gif-to-mp4/ezgif-1-2838792965.gif"width=250>
+   <br>
 </details>
 
 ![] http://g.recordit.co/qdR6tRzxw3.gif
