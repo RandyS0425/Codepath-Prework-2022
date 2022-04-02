@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 <details open>
-<summary>High Score Keeper</summary>
+<summary>Overall Showcase</summary>
    <img src="http://g.recordit.co/8lE5Uq6oOF.gif"width=250>
 <br>
 </details>
@@ -53,13 +53,18 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 <details open>
 <summary>Difficulty Drop-down Menu</summary>
- <img src="https://ezgif.com/gif-to-mp4/ezgif-1-2838792965.gif"width=250>
+ <img src="https://recordit.co/kPZhS3AwGu"width=250>
    <br>
 </details>
-
-![] http://g.recordit.co/qdR6tRzxw3.gif
-![] http://g.recordit.co/MwYWHqZ8DT.gif
-![] http://g.recordit.co/8lE5Uq6oOF.gif
+<details open>
+<summary>Speed Drop-down Menu</summary>
+ <img src="http://g.recordit.co/1Q6oEZvGUL.gif"width=250>
+   <br>
+</details>
+<summary>High Score/Current Score Keeper</summary>
+ <img src="http://g.recordit.co/921vNbI4sO.gif"width=250>
+   <br>
+</details>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
