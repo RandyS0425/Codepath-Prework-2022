@@ -6,7 +6,7 @@ Submitted by: **Randy Barreda**
 
 Time spent: 6 hours spent in total
 
-Link to project: (insert your link here, should start with https://cheerful-sticky-visitor.glitch.me/
+Link to project:  https://cheerful-sticky-visitor.glitch.me/
 
 ## Required Functionality
 
