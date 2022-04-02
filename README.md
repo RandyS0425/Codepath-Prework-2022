@@ -41,12 +41,19 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 <details open>
 <summary>Functionality Walkthrough?</summary>
-    http://g.recordit.co/ExKBhdRNIT.gif
+   <img src="http://g.recordit.co/ExKBhdRNIT.gif"width=250>
 <br>
-Well, you asked for it!
 </details>
-![] http://g.recordit.co/ExKBhdRNIT.gif
-![] http://g.recordit.co/d9fGTVybsy.gif
+
+<details open>
+<summary>Functionality Walkthrough?</summary>
+ http://g.recordit.co/d9fGTVybsy.gif<br>
+</details>
+<details open>
+<summary>Functionality Walkthrough?</summary>
+ http://g.recordit.co/d9fGTVybsy.gif<br>
+</details>
+
 ![] http://g.recordit.co/qdR6tRzxw3.gif
 ![] http://g.recordit.co/MwYWHqZ8DT.gif
 ![] http://g.recordit.co/8lE5Uq6oOF.gif
